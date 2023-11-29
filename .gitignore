@@ -1,4 +1,7 @@
 .DS_Store
 data/WikiArt
 data/Flickr30K
+data/WikiArt_Flattened
 data.zip
+stylegan2-ada/
+bigGAN/
